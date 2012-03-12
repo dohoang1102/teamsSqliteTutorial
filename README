@@ -1,0 +1,7 @@
+This tutorial deals with using a database sqlite football teams:
+- Prints the list of teams
+- Displays information from a single team
+- Allows the deletion of one or more teams
+- Allows the addition of new teams
+
+To make this tutorial to add the library libsqlite3.0.dylib to the project.
